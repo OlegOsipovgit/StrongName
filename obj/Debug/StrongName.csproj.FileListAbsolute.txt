@@ -1,0 +1,9 @@
+C:\Users\Ольга\source\repos\StrongName\StrongName\bin\Debug\StrongName.dll
+C:\Users\Ольга\source\repos\StrongName\StrongName\bin\Debug\StrongName.pdb
+C:\Users\Ольга\source\repos\StrongName\StrongName\bin\Debug\car.dll
+C:\Users\Ольга\source\repos\StrongName\StrongName\bin\Debug\auto.netmodule
+C:\Users\Ольга\source\repos\StrongName\StrongName\obj\Debug\StrongName.csprojResolveAssemblyReference.cache
+C:\Users\Ольга\source\repos\StrongName\StrongName\obj\Debug\StrongName.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\source\repos\StrongName\StrongName\obj\Debug\StrongName.csproj.CopyComplete
+C:\Users\Ольга\source\repos\StrongName\StrongName\obj\Debug\StrongName.dll
+C:\Users\Ольга\source\repos\StrongName\StrongName\obj\Debug\StrongName.pdb
